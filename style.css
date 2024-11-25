@@ -1,8 +1,48 @@
+:root {
+    --debug-border: #f54242; 
+}
+
 body {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0px;
+}
+
+#container {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
 }
 
 header {
-    background-color: black;
-    color: white;
+    /* background-color: black; */
+    height: 6rem;
+    border: 2px solid var(--debug-border);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header pre {
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+header a {
+    justify-content: space-around;
+    padding: 0px 4px;
+}
+
+header nav {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+main{
+    border: 2px solid var(--debug-border);
+    height: 50rem;
+}
+
+footer {
+    border: 2px solid var(--debug-border);
 }

@@ -1,0 +1,109 @@
+Polices : 
+Bebas Neue : larges et compactes => titres et sous-titres important
+Montserrat, Roboto: plus neutre et plus lisible => paragraphes de texte
+Couleurs : Vert néon vif #39FF14, Noir #1c1c1c, blanc #F8F8F8
+Accents: Ombrages légers, bordures fine, dégradé vif/ lumineux
+
+Layout :
+Titre principal : 48px
+Sous-titres: 36px
+Textes : 14-16px
+Elements graphiques : (jv?)
+
+Slogan :
+Performance, puissance, perfection
+L’énergie des champions, dans chaque bouchée !
+La barre qui change la partie.
+idée d'amélioration, d'ascension et de performance
+
+type juridique :
+SARL ou SAS
+
+Recherches :
+-Concurrents:
+    -Direct -> MyProtein, Battle Bites
+    -Indirect -> G Fuel
+
+-Etude de l'extistant :
+
+
+-
+
+
+-Roles:
+DRH - Filipe
+Chef de produit - Stefan
+DG -  Pierre
+
+
+1. Directeur des Ressources Humaines (DRH)
+
+Mission principale :
+Assurer la gestion et le développement des ressources humaines de LevelUp Protein, en favorisant un environnement de travail motivant, productif et en conformité avec les normes légales et les objectifs de l’entreprise.
+
+Responsabilités :
+
+    Recruter, intégrer et former les employés en fonction des besoins de l'entreprise.
+    Développer une stratégie RH pour attirer et retenir les talents, en particulier dans les domaines de la production, du marketing, et de la vente.
+    Assurer la gestion des relations sociales (négociation avec les syndicats, gestion des conflits).
+    Gérer la rémunération, les avantages et la paie en accord avec la politique de l'entreprise.
+    Veiller à la conformité légale de l’entreprise (droit du travail, sécurité au travail).
+    Mettre en place des programmes de développement des compétences et de la performance des employés.
+    Favoriser la culture d’entreprise et renforcer l'engagement des collaborateurs.
+
+Compétences et qualifications :
+
+    Bac+5 en Ressources Humaines, Droit Social ou Gestion des Entreprises.
+    Expérience de 5 ans minimum dans un rôle RH, idéalement dans l'industrie alimentaire ou les produits de consommation.
+    Excellentes compétences en communication, négociation et gestion de conflits.
+    Connaissance approfondie du droit du travail et des bonnes pratiques en matière de ressources humaines.
+    Leadership et capacité à travailler de manière transversale avec les autres départements.
+
+2. Directeur Général (DG)
+
+Mission principale :
+Assurer la direction stratégique et opérationnelle de LevelUp Protein, superviser la croissance de l’entreprise, et garantir sa rentabilité tout en promouvant l’innovation dans le secteur des barres protéinées.
+
+Responsabilités :
+
+    Élaborer et mettre en œuvre la stratégie générale de l’entreprise en coordination avec les autres départements.
+    Superviser les opérations quotidiennes, incluant la production, le marketing, les ventes et la logistique.
+    Piloter les objectifs financiers et opérationnels, et s'assurer de la rentabilité de l'entreprise.
+    Prendre des décisions stratégiques concernant l'extension de la gamme de produits, les partenariats, et l’expansion géographique.
+    Maintenir des relations solides avec les investisseurs, partenaires et autres parties prenantes.
+    Suivre les tendances du marché et les innovations dans le secteur des produits alimentaires, notamment les tendances en matière de nutrition sportive.
+    Représenter LevelUp Protein lors des salons professionnels, événements industriels et dans les relations publiques.
+
+Compétences et qualifications :
+
+    Bac+5 en Management, Administration des Affaires ou équivalent.
+    Expérience de 10 ans minimum dans la gestion d’une entreprise, idéalement dans l’industrie alimentaire ou nutritionnelle.
+    Compétences en gestion d’équipe, prise de décision stratégique et gestion des ressources.
+    Excellentes compétences en communication, relations publiques et négociation.
+    Vision stratégique et capacité à anticiper les évolutions du marché.
+
+3. Chef de Produit
+
+Mission principale :
+Développer, positionner et gérer les produits de la marque LevelUp Protein, en s'assurant qu’ils répondent aux besoins des consommateurs tout en optimisant leur rentabilité.
+
+Responsabilités :
+
+    Analyser le marché et les tendances de consommation pour proposer de nouvelles gammes de barres protéinées ou améliorer les produits existants.
+    Gérer le cycle de vie des produits, depuis la conception jusqu'à la commercialisation, en collaboration avec les équipes R&D, production et marketing.
+    Définir les caractéristiques des produits en fonction des attentes des clients (goût, nutrition, emballage, prix).
+    Superviser le lancement de nouveaux produits et coordonner les actions de promotion et de communication avec le marketing.
+    Réaliser des études de marché, suivre les performances des produits et ajuster les stratégies en fonction des retours clients et des résultats financiers.
+    Suivre le développement de l'emballage et des spécifications techniques en collaboration avec le département R&D et les fournisseurs.
+    Collaborer avec les équipes commerciales pour définir les arguments de vente et former les équipes de distribution.
+
+Compétences et qualifications :
+
+    Bac+5 en Marketing, Gestion de Produit ou Commerce.
+    Expérience de 3 à 5 ans dans le développement de produits, de préférence dans l’industrie alimentaire, des produits de nutrition ou de consommation.
+    Solides compétences en gestion de projet, analyse de données et stratégie produit.
+    Connaissance des tendances en nutrition et de la demande des consommateurs dans le secteur des protéines et des produits fitness.
+    Capacité à travailler en équipe et à collaborer avec différents départements (R&D, production, marketing, ventes).
+    Sens de l’innovation et orientation vers la satisfaction client.
+
+
