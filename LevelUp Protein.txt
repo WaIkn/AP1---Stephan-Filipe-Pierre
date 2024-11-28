@@ -1,3 +1,7 @@
+Adresse = 52, boulevard Vaillant, 88397
+Siret = 443 374 462 249 56
+n° TVA = FR34443374462
+
 Polices : 
 Bebas Neue : larges et compactes => titres et sous-titres important
 Montserrat, Roboto: plus neutre et plus lisible => paragraphes de texte
@@ -45,11 +49,9 @@ Responsabilités :
 
     Recruter, intégrer et former les employés en fonction des besoins de l'entreprise.
     Développer une stratégie RH pour attirer et retenir les talents, en particulier dans les domaines de la production, du marketing, et de la vente.
-    Assurer la gestion des relations sociales (négociation avec les syndicats, gestion des conflits).
+    Gestion des relations sociales (négociation avec les syndicats, gestion des conflits interne).
     Gérer la rémunération, les avantages et la paie en accord avec la politique de l'entreprise.
-    Veiller à la conformité légale de l’entreprise (droit du travail, sécurité au travail).
-    Mettre en place des programmes de développement des compétences et de la performance des employés.
-    Favoriser la culture d’entreprise et renforcer l'engagement des collaborateurs.
+    Conformité légale de l’entreprise (droit du travail, sécurité au travail).
 
 Compétences et qualifications :
 
